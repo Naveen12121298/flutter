@@ -1,39 +1,15 @@
-# Chat/Messaging App Light and Dark Theme - Flutter UI
+# Flutter E-commerce Mobile App Templates
 
-## [Watch it on YouTube](https://youtu.be/uiJF-ShOLyo)
-
-## [Complete Source Code (Patreon only)](https://bit.ly/3n5mdwS)
+## [Watch it on YouTube](https://youtu.be/XBKzpTz65Io)
 
 **Packages we are using:**
 
-- goole_fonts: [link](https://pub.dev/packages/google_fonts)
+- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
 
-Today we gonna build messing/chat app #ui using #flutter that runs both Android and iOS devices also has a dark and light theme. We create in total 4 screens all of that support both Dark Theme and Light Theme. At first, we design a welcome screen that contains an image with a tag line also has a skip button. Once the user press, its transfers to the Sign-in or Sign-up screen. The last two screens are the main screen, Chats screens it shows the list of people you are chated with. At the end message screen which support text message, audio message, and video messages.
+Catch a glimpse of our modern Flutter E-commerce app template, up for grabs for free on Github! Designed for an intuitive shopping experience, this Flutter shop app template neatly organizes products under a horizontal scroll of categories. As you dive deeper into a product, the details page unveils its price, a brief description, and an eye-catching 'Buy Now' button set against the product's unique color theme. It's not just about selling; it's about presenting each product in its best light.
 
-**Complete UI Contains:**
+### Flutter Shop App template final preview
 
-► Splash Screen
-► Welcome Screen
-► Sign in & Sign up
-► Phone Validation (OTP)
-► Forget Password
-► Change Password
-► Chats Screen
-► Search Chats
-► Message Screen
-► Audio Call
-► Video Call
-► Contacts
-► Search Contacts
-► Call History
-► Search on Call history
-► Profile Screen
-► Edit Profile
-
-### Chat/Messaging App Light and Dark Theme Final UI
-
-![Preview](/gif.gif)
-![Preview](/ui_kit.gif)
+![intro](intro.gif)
 
 ![App UI](/ui.png)
-![App UI](/chat_kit.png)
